@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estou cursando a faculdade de Engenharia de Software<br>🎯 Atualmente mais focado em:</p>
+<p align="left">📚 Estou cursando a faculdade de Engenharia de Software<br>🎯 Atualmente mais focado em aprender.</p>
 
 ###
 
